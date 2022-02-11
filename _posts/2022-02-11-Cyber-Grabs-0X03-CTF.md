@@ -33,9 +33,10 @@ We managed to solve 21/29 challenges where we emerged 44/285 teams with 2750 poi
 ## Mr Robot
 
 > Mr. Robot most famous TV show but least people know about it.
+
 > _Solved by 05t3_
 
-We are presented with a `.wav` file and the first thing that comes to my mind is using Audacity & Sonic Visualizer to check if the flag is visible on the spectogram. Turns out that was a dead end. After sometime of research, i came across a tool on github that could get the flag, `stegolsb`. To install it, simply run:
+We are presented with a `.wav` file and the first thing that comes to my mind is using [Audacity](https://www.audacityteam.org/download/) & [Sonic Visualizer](https://www.sonicvisualiser.org/download.html) to check if the flag is visible on the spectogram. Turns out that was a dead end. After sometime of research, i came across a tool on github that could get the flag, `stegolsb`. To install it, simply run:
 
 ```
 git clone https://github.com/ragibson/Steganography
