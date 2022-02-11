@@ -8,7 +8,6 @@ tags: [wireshark, osint, rev, steg, crypto]
 ---
 
 Hey and welcome to our new blog. Last week the team participated in the Cyber Grabs 0X03 Junior CTF which was a 12 Hours Jeopardy style team CTF
-We managed to solve 21/29 challenges where we emerged 44/285 teams with 2750 points. In general, the challenges were fun despite a few challenges with the Infra.
 
 | CTF            | Cyber Grabs 0X03 Junior CTF                            |
 | -------------- | ------------------------------------------------------ |
