@@ -16,12 +16,12 @@ type: categories
 {% assign sort_categories = site.categories | sort %}
 
 {% for category in sort_categories %}
-  {% assign category_name = category | first %}
-  {% assign posts_of_category = category | last %}
-  {% assign first_post = posts_of_category | first %}
+{% assign category_name = category | first %}
+{% assign posts_of_category = category | last %}
+{% assign first_post = posts_of_category | first %}
 
-  {% if category_name == first_post.categories[0] %}
-    {% assign sub_categories = "" | split: "" %}
+{% if category_name == first_post.categories[0] %}
+{% assign sub_categories = "" | split: "" %}
 
     {% for post in posts_of_category %}
       {% assign second_category = post.categories[1] %}
@@ -99,8 +99,7 @@ type: categories
 
     {% assign group_index = group_index | plus: 1 %}
 
-  {% endif %}
+{% endif %}
 {% endfor %}
 
-
-<script data-name="BMC-Widget" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="ColdFusionX" data-description="Your Support means the World to me !" data-message="Thank you for visiting. Hope you liked my Blog!" data-color="#5F7FFF" data-position="" data-x_margin="18" data-y_margin="18"></script>
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="fr334aksmiF" data-color="#000000" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>

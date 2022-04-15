@@ -7,8 +7,6 @@ title: Welcome to fr334aks-mini
 # MIT License
 ---
 
-![Banner](https://user-images.githubusercontent.com/58165365/163569118-5b6869b2-7142-4675-895c-dbf181cf4dd8.jpeg)
-
 We are an International CTF team with commited & dedicated players talented in different fields. We are a sister team to the [fr334aks](https://fr334aks.github.io/)
 
 # Meet The Team
@@ -30,6 +28,4 @@ We are an International CTF team with commited & dedicated players talented in d
 | n3rd             | Forensics, Steg, Crypto         | 🇰🇪          | [\_\_Muggs](https://twitter.com/__Muggs)             | [or0ch1.tech](https://or0ch1.tech/)        | [Or0ch1](https://github.com/Or0ch1)                       |
 | F41th            | Networks, Forensics             | 🇰🇪          | [@g1rl_gang](https://twitter.com/g1rl_gang)          |                                            | [G1rlg4ng](https://github.com/G1rlg4ng)                   |
 
-<a href="https://www.buymeacoffee.com/ColdFusionX" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="fr334aksmiF" data-color="#FF5F5F" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="fr334aksmiF" data-color="#000000" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
