@@ -11,21 +11,18 @@ We are an International CTF team with commited & dedicated players talented in d
 
 # Meet The Team
 
-| NAME             | CATEGORIES                      | NATIONALITY | Twitter                                              | Blog                                       | github                                                    |
-| ---------------- | ------------------------------- | ----------- | ---------------------------------------------------- | ------------------------------------------ | --------------------------------------------------------- |
-| Winter (Captain) | pwn, crypto, rev                | 🇰🇪          | [@byronchris25](https://twitter.com/byronchris25)    |                                            | [W1nterFr3ak](https://github.com/W1nterFr3ak/W1nterFr3ak) |
-| 5h311r4di        | network , forensics             | 🇰🇪          | [@5h311r4di](https://twitter.com/5h311r4di)          |                                            | [shellradi](https://github.com/shellradi)                 |
-| O5t3             | NSM, Forensics                  | 🇰🇪          | [@oste_ke](https://twitter.com/oste_ke)              | [O5t3](https://05t3.github.io/)            | [05t3](https://github.com/05t3)                           |
-| fsoc13ty         | web, forensics                  | 🇰🇪          | [@fsoc13tyyy](https://twitter.com/fsoc13tyyy)        |                                            | [lewinnn](https://github.com/lewinnn)                     |
-| netsploit        | Forensics, OSINT, Steg          | 🇰🇪          | [@n3tsploit](https://twitter.com/n3tsploit)          | [netsploit](https://netsploit.medium.com/) | [n3tsploit](https://twitter.com/n3tsploit)                |
-| Knull            | Pwn, Crypto                     | 🇰🇪          |                                                      |                                            | [desaad-knull](https://github.com/desaad-knull)           |
-| c1ph3rbnuk       | Crypto, OSINT, Network, Malware | 🇰🇪          | [@c1ph3rbnuk](https://twitter.com/c1ph3rbnuk)        |                                            | [sW33t1mPur1t13s](https://github.com/sW33t1mPur1t13s)     |
-| H4ck3rwizz       | Crypto, Network, Web            | 🇰🇪          |                                                      |                                            | [@noahparagon](http://www.twitter.com/noahparagon)        |
-| Par$z            | Web, Forensics                  | 🇰🇪          | [@\_parsz](http://twitter.com/_parsz)                | [p4rsz.me](http://p4rsz.me/)               | [p4rsz](http://github.com/p4rsz)                          |
-| Asula            | Web, Forensic, OSINT            | 🇰🇪          | [@HassanAdanT1](https://twitter.com/hassanadant1)    |                                            | [Asula399](https://github.com/Asula399)                   |
-| th48th           | boot2root                       | 🇰🇪          |                                                      |                                            | [the48](https://github.com/the48)                         |
-| rs_on3           | Web, OSINT                      | 🇰🇪          | [@alliethetechie](https://twitter.com/allythetechie) |                                            |                                                           |
-| n3rd             | Forensics, Steg, Crypto         | 🇰🇪          | [\_\_Muggs](https://twitter.com/__Muggs)             | [or0ch1.tech](https://or0ch1.tech/)        | [Or0ch1](https://github.com/Or0ch1)                       |
-| F41th            | Networks, Forensics             | 🇰🇪          | [@g1rl_gang](https://twitter.com/g1rl_gang)          |                                            | [G1rlg4ng](https://github.com/G1rlg4ng)                   |
+| NAME                 | CATEGORIES                      | NATIONALITY | BLOG                                      | X                                          | GITHUB                                     |
+|----------------------|-----------------------------------------|-------------|-------------------------------------------|--------------------------------------------|--------------------------------------------|
+| D_C4ptain (Captain)  | Web, Networks, Forensics, OSINT | KE          | [D_C4ptain](http://d-c4ptain.github.io/)  | [@d_c4ptain](https://x.com/d_c4ptain)      | [d_c4ptain](https://github.com/d-c4ptain)  |
+| J053ph               | Web, Networks, Mobile, Forensics| KE          | [J053ph](https://josephkimiri.github.io/)  |                     [J053ph ](https://x.com/mashkimiri)               | [J053ph](https://github.com/josephkimiri/) |
+| c1ph3rbnuk               | Forensics, Crypto, OSINT, Steg, | KE          | [c1ph3rbnuk](https://c1ph3rbnuk.github.io/)  |                     [c1ph3rbnuk](https://x.com/c1ph3rbnuk)               | [c1ph3rbnuk](https://github.com/c1ph3rbnuk/) |
+| cybermun3n3               | Reversing, Crypto, Web, Malware, Programming, Forensics | KE          | [cyb3rmun3n3](https://jnmunene.com)  |                     [cyb3rmun3n3](https://x.com/cyb3rmun3n3)               | [cyb3rmun3n3](https://github.com/cyb3rmun3n3/) |
+| mburk4              |Reversing, Forensic, Steganography | KE          | [mburk4](https://mburukaranja.me)  | [mburk4](https://x.com/mburu_karanja_) | [mburk4](https://github.com/mburu-karanja)|
+| pr0rat            || KE          |  | | |
+| r00tMugiwara             |Forensics, OSINT, Networks, CTI, Steganography | KE          | |  | |
+| G0D_of_CONFIG               | Mobile, Reversing| KE          | [G0D_of_CONFIG](https://noahmugaya.hashnode.dev/)  |                                   |  |
+
+
+
 
 <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="fr334aksmiF" data-color="#000000" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
