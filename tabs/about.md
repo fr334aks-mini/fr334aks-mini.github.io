@@ -19,7 +19,6 @@ We are an International CTF team with commited & dedicated players talented in d
 | cybermun3n3               | Reversing, Crypto, Web, Malware, Programming, Forensics | KE          | [cyb3rmun3n3](https://jnmunene.com)  |                     [cyb3rmun3n3](https://x.com/cyb3rmun3n3)               | [cyb3rmun3n3](https://github.com/cyb3rmun3n3/) |
 | mburk4              |Reversing, Forensic, Steganography | KE          | [mburk4](https://mburukaranja.me)  | [mburk4](https://x.com/mburu_karanja_) | [mburk4](https://github.com/mburu-karanja)|
 | pr0rat            || KE          |  | | |
-| r00tMugiwara             |Forensics, OSINT, Networks, CTI, Steganography | KE          | |  | |
 | G0D_of_CONFIG               | Mobile, Reversing| KE          | [G0D_of_CONFIG](https://noahmugaya.hashnode.dev/)  |                                   |  |
 
 

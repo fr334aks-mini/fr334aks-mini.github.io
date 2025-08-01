@@ -21,13 +21,7 @@ We managed to solve 21/29 challenges where we emerged 44/285 teams with 2750 poi
 
 ![image](https://user-images.githubusercontent.com/58165365/153565716-a74139db-c830-4054-acb9-ce8fc2e49335.png)
 
-# OSINT
 
-# Misc
-
-# Reverse
-
-# Forensic
 
 ## Mr Robot
 
@@ -60,6 +54,3 @@ For more information on stego-lsb, check out the official [project description.]
 
 FLAG: `CYBERGRABS{3VERY_8YTE_4RE_REAL_VALUE}`
 
-# Web
-
-# Crypto
