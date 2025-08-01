@@ -8,4 +8,5 @@ tags: [web]
 ---
 - Last week the team participated in the Shakti CTF which a jeopardy style online CTF competition.
 - FInd the links to the writeups made by some of our players below:
-[By thecyberlearner](https://thecyberlearner.github.io/post/shaktictf/)  
+
+1. [By thecyberlearner](https://thecyberlearner.github.io/post/shaktictf/)  
