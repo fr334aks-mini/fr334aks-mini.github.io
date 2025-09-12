@@ -16,11 +16,11 @@ We are an International CTF team with commited & dedicated players talented in d
 | D_C4ptain (Captain)  | Web, Networks, Forensics, OSINT | KE          | [D_C4ptain](http://d-c4ptain.github.io/)  | [@d_c4ptain](https://x.com/d_c4ptain)      | [d_c4ptain](https://github.com/d-c4ptain)  |
 | J053ph               | Web, Networks, Mobile, Forensics| KE          | [J053ph](https://josephkimiri.github.io/)  |                     [J053ph ](https://x.com/mashkimiri)               | [J053ph](https://github.com/josephkimiri/) |
 | c1ph3rbnuk               | Forensics, Crypto, OSINT, Steg, | KE          | [c1ph3rbnuk](https://c1ph3rbnuk.github.io/)  |                     [c1ph3rbnuk](https://x.com/c1ph3rbnuk)               | [c1ph3rbnuk](https://github.com/c1ph3rbnuk/) |
-| cybermun3n3               | Reversing, Crypto, Web, Malware, Programming, Forensics | KE          | [cyb3rmun3n3](https://jnmunene.com)  |                     [cyb3rmun3n3](https://x.com/cyb3rmun3n3)               | [cyb3rmun3n3](https://github.com/cyb3rmun3n3/) |
+| cybermun3n3               | Reversing, Crypto, Web, Malware, Programming, Forensics | KE          | [cyb3rmun3n3](https://cybermunene.com)  |                     [cyb3rmun3n3](https://x.com/cybermunene)               | [cyb3rmun3n3](https://github.com/cyb3rmun3n3/) |
 | mburk4              |Reversing, Forensic, Steganography | KE          | [mburk4](https://mburukaranja.me)  | [mburk4](https://x.com/mburu_karanja_) | [mburk4](https://github.com/mburu-karanja)|
 | pr0rat            || KE          |  | | |
 | G0D_of_CONFIG               | Mobile, Reversing| KE          | [G0D_of_CONFIG](https://noahmugaya.hashnode.dev/)  |                                   |  |
-
+|th3cyberlearner |Web, Boot2root, Forensics|KE|[th3cyberlearner](https://thecyberlearner.github.io/)|[th3cyberlearner](https://x.com/th3cyberlearner)|[th3cyberlearner](https://github.com/th3cyberlearner)|
 
 
 
