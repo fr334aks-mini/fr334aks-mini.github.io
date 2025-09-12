@@ -20,7 +20,14 @@ We are an International CTF team with commited & dedicated players talented in d
 | mburk4              |Reversing, Forensic, Steganography | KE          | [mburk4](https://mburukaranja.me)  | [mburk4](https://x.com/mburu_karanja_) | [mburk4](https://github.com/mburu-karanja)|
 | pr0rat            || KE          |  | | |
 | G0D_of_CONFIG               | Mobile, Reversing| KE          | [G0D_of_CONFIG](https://noahmugaya.hashnode.dev/)  |                                   |  |
-|th3cyberlearner |Web, Boot2root, Forensics|KE|[th3cyberlearner](https://thecyberlearner.github.io/)|[th3cyberlearner](https://x.com/th3cyberlearner)|[th3cyberlearner](https://github.com/th3cyberlearner)|
+|th3cyberlearner |Web, Boot2root, Forensics|KE|[th3cyberlearner](https://thecyberlearner.github.io/)|[th3cyberlearner](https://x.com/th3cyberlearner)|[th3cyberlearner](https://github.com/wambuapeter)|
+|D4nnyt3ll0|Cryptography, Steg, Pwn, Forensics|KE|[]()|[]()|[]()|
+|michaelkhanda|Forensics, Web, Crypto, OSINT|KE|[michaelkhanda](https://medium.com/@michaelkhanda006)|[]()|[]()|
+|jaarabytes|Forensics, Web, Crypto|KE|[jaarabytes](https://jaarabytes.vercel.app/)|[jaarabytes]()|[jaarabytes]()|
+|Tinonymous |Forensics, OSINT,crypto,stego,web|KE|[]()|[]()|[]()|
+|kejcao |Forensics, OSINT, crypto, web, Misc|KE|[kejcao ](https://kejcao.github.io/)|[]()|[]()|
+|tr0n9_t4m |Forensics, network, malware analyst|KE|[tr0n9_t4m ](https://kejcao.github.io/)|[]()|[]()|
+
 
 
 
