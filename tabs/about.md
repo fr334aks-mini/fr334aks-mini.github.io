@@ -20,6 +20,7 @@ We are an International CTF team with commited & dedicated players talented in d
 | mburk4              |Reversing, Forensic, Steganography | KE          | [mburk4](https://mburukaranja.me)  | [mburk4](https://x.com/mburu_karanja_) | [mburk4](https://github.com/mburu-karanja)|
 | pr0rat            || KE          |  | | |
 | G0D_of_CONFIG               | Mobile, Reversing| KE          | [G0D_of_CONFIG](https://noahmugaya.hashnode.dev/)  |                                   |  |
+| themadbit          | Rev, Mobile                | KE |              [marktanui.com](https://mobisec.marktanui.com)     |                                   | [themadbit](https://github.com/themadbit)|
 |th3cyberlearner |Web, Boot2root, Forensics|KE|[th3cyberlearner](https://thecyberlearner.github.io/)|[th3cyberlearner](https://x.com/th3cyberlearner)|[th3cyberlearner](https://github.com/wambuapeter)|
 |D4nnyt3ll0|Cryptography, Steg, Pwn, Forensics|KE|[]()|[]()|[]()|
 |michaelkhanda|Forensics, Web, Crypto, OSINT|KE|[michaelkhanda](https://medium.com/@michaelkhanda006)|[]()|[]()|
