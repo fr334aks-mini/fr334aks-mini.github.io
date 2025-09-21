@@ -7,7 +7,7 @@ title: Welcome to fr334aks-mini
 # MIT License
 ---
 
-We are an International CTF team with commited & dedicated players talented in different fields. We are a sister team to the [fr334aks](https://fr334aks.github.io/)
+We are an International CTF team with commited & dedicated players talented in different fields. We are a brother team to the [fr334aks](https://fr334aks.github.io/)
 
 # Meet The Team
 
