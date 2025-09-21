@@ -11,3 +11,4 @@ tags: [web, RE, PWN]
 
 
 1. [By Cybermunene](https://cybermunene.com/ctf-writeups/perfectroot-ctf/perfectroot/)  
+2. [By D_C4ptain](https://d-c4ptain.github.io/posts/P3rf3ctr00t-CTF-2024/)
